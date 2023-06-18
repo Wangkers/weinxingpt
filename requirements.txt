@@ -1,0 +1,6 @@
+flask
+requests
+openai==0.27.0
+xmltodict
+tiktoken
+prompt_toolkit
